@@ -1,5 +1,5 @@
 ## ProgEnum
-Python Code for Ma & Hermundstad (2022), Discovering and Understanding Efficient Behavioral Strategies in a Vast Solution Space
+Python Code for Tzuhsuan Ma & Ann Hermundstad (2022), A vast space of compact strategies for highly efficient decisions
 
 ## To begin
 1. Download all code as one local folder.
